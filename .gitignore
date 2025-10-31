@@ -1,0 +1,20 @@
+# 忽略项目中的日志文件
+/missfont.log
+
+# 忽略输出的 PDF 文件
+/output.pdf
+
+# 忽略报告的 Markdown 文件
+/report.md
+
+# 忽略报告的 PDF 文件
+/report.pdf
+
+# 忽略样式文件
+/style.css
+
+# 忽略 LaTeX 模板文件
+/template.tex
+
+# 忽略 image 文件夹中的所有内容
+/image/
